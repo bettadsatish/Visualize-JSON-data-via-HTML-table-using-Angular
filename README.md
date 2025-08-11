@@ -74,3 +74,4 @@ npm run build
 - **Backend**: Node.js, Express.js, TypeScript
 
 
+![IMG-20250811-WA0002.jpg](https://github.com/user-attachments/assets/b3d1ab6a-e0d5-4fa7-863b-782ac5197015)
