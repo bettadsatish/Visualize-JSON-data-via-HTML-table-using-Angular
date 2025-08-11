@@ -73,4 +73,11 @@ npm run build
 - **Frontend**: Angular 20.1.5, TypeScript, SCSS
 - **Backend**: Node.js, Express.js, TypeScript
 
+1
+![anil1](https://github.com/user-attachments/assets/82b18058-75b3-46e5-b698-97e10998c364)
+2
+![anil2](https://github.com/user-attachments/assets/efe91bae-dc6a-454b-b589-ea2e7c696569)
+3
+![anil3](https://github.com/user-attachments/assets/2f19770b-ec33-44a7-be18-e098e8519755)
+
 
